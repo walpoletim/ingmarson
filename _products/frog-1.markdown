@@ -7,3 +7,4 @@ sku: 111
 image: "/uploads/frog-t-shirt-9.jpg"
 ---
 
+This is a frog t-shirt
