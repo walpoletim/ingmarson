@@ -1,8 +1,6 @@
 ---
 title: ingmarson
 timezone: UTC
-snipcart_api_key: OWY4MDY3MDUtZjQxNS00M2FiLWE1YmItYmZhMTFjMjg4MjRkNjM2MzQyNzYwNTA1NjQ2ODY0
-url: 'https://snipcart.github.io/snipcart-jamstack'
 collections:
   posts:
     title: Posts
@@ -30,4 +28,6 @@ defaults:
     type: pages
   values:
     layout: page
+snipcart_api_key: OWY4MDY3MDUtZjQxNS00M2FiLWE1YmItYmZhMTFjMjg4MjRkNjM2MzQyNzYwNTA1NjQ2ODY0
+url: https://snipcart.github.io/snipcart-jamstack
 permalink: pretty
