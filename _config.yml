@@ -16,10 +16,15 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
+    type: products
   values:
-    layout: post
-    permalink: "/posts/:title/"
+    layout: product
+    permalink: "/products/:title/"
+    name: ''
+    price: 0.0
+    sku: ''
+    image: ''
+    weight: 0.0
 - scope:
     path: ''
     type: pages
